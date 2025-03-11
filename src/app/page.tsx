@@ -369,7 +369,7 @@ export default function Home() {
           <div className="border-t border-gray-700 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-gray-500 text-sm mb-4 md:mb-0">
-                © {new Date().getFullYear()} Olive Medicare. All rights reserved.
+                © {new Date().getFullYear()} Olive Medicare. All rights reserved. RC. 7666712
               </p>
               
             </div>
